@@ -1,5 +1,4 @@
 function calculate() {
-
     let bmi;
     const result = document.getElementById("result");
 
